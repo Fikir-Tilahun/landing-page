@@ -160,3 +160,54 @@ body {
   text-align: right;
   margin-top: 10px;
 }
+
+/* CSS Styling for the Section Call to Action and Footer */
+.cta-section {
+  background-color: #ffffff;
+  padding: 100px 15%;
+  display: flex;
+  justify-content: center;
+}
+
+.cta-box {
+  background-color: #3882f6;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 40px 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1000px;
+}
+
+.cta-text h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 5px 0;
+}
+
+.cta-text p {
+  font-size: 16px;
+  color: #e5e7eb;
+  margin: 0;
+}
+
+.cta-btn {
+  background-color: #3882f6;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  padding: 8px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 40px 0;
+  font-size: 16px;
+}
