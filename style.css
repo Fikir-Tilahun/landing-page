@@ -132,3 +132,31 @@ body {
   margin: 0;
   text-align: center;
 }
+
+/* CSS Styling for the Quote Section */
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 70px 20%;
+  display: flex;
+  justify-content: center;
+}
+
+.quote-content {
+  max-width: 800px;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 300;
+  color: #1f2937;
+  margin: 0;
+  line-height: 1;
+}
+
+.quote-author {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1f2937;
+  text-align: right;
+  margin-top: 10px;
+}
